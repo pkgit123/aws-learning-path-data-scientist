@@ -12,7 +12,8 @@ AWS provides 8 learning paths on its website:
 * Embedded Analytics Dev
 * Database Administrator
 
-### Data Scientist Learning Path
-* https://aws.amazon.com/getting-started/learning-path-data-scientist/
+### AWS Resources
+* Data Scientist Learning Path
+  * https://aws.amazon.com/getting-started/learning-path-data-scientist/
 * Build, train, and deploy a machine learning model with Amazon SageMaker
   * https://aws.amazon.com/getting-started/hands-on/build-train-deploy-machine-learning-model-sagemaker/
